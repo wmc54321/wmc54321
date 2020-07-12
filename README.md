@@ -1,4 +1,4 @@
-# Minchen Wang
+# ~ Minchen Wang ~
 
 ### Hi there 👋
 
