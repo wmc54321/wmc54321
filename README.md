@@ -15,7 +15,7 @@ Bachelor of Engineering, Software Engineering - _Aug 2013 - Jul 2017_
 ## 🎨Where am I working?
 
 #### Facebook @_Menlo Park_
-SWE - _Jul 2020 - _
+SWE - _Jul 2020 -_
 
 #### Amazon (China) @_Beijing_
 SDE Intern - _Jun 2019 - Aug 2019_
