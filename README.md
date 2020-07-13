@@ -6,19 +6,19 @@ This is Minchen Wang's Github!
 
 ## 🧶In which university did I study?
 
-#### New York University, Tandon School of Engineering
-Master of Science, Computer Science - _Aug 2018 - May 2020_
+**New York University, Tandon School of Engineering**   
+Master of Science, Computer Science - _Aug 2018 - May 2020_  
 
-#### Tsinghua University, School of Software
-Bachelor of Engineering, Software Engineering - _Aug 2013 - Jul 2017_
+**Tsinghua University, School of Software**  
+Bachelor of Engineering, Software Engineering - _Aug 2013 - Jul 2017_  
 
 ## 🎨Where am I working?
 
-#### Facebook @_Menlo Park_
-SWE - _Jul 2020 -_
+**Facebook @_Menlo Park_**  
+SWE - _Jul 2020 -_  
 
-#### Amazon (China) @_Beijing_
-SDE Intern - _Jun 2019 - Aug 2019_
+**Amazon (China) @_Beijing_**  
+SDE Intern - _Jun 2019 - Aug 2019_  
 
 ## 🎯What are my skills?
 Mainly in web development, database and web search engines.
