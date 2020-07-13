@@ -25,9 +25,9 @@ Mainly in web development, database and web search engines.
 
 ## 👀Keep in Touch!
 
-My Email Address: me@minchen.wang
-My LinkedIn: https://www.linkedin.com/in/wmc54321/
-我的中文博客: https://blog.minchen.wang/
+My Email Address: me@minchen.wang  
+My LinkedIn: https://www.linkedin.com/in/wmc54321/  
+我的中文博客: https://blog.minchen.wang/  
 
 <!--
 **wmc54321/wmc54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
