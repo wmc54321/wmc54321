@@ -4,17 +4,30 @@
 
 This is Minchen Wang's Github!
 
-## 🧶Where did I study?
+## 🧶In which university did I study?
 
-I studied at Tsinghua University, School of Software in 2013-2017, and majored in CS at New York University, Tandon School of Engineering in 2018-2020.
+#### New York University, Tandon School of Engineering
+Master of Science, Computer Science - _Aug 2018 - May 2020_
+
+#### Tsinghua University, School of Software
+Bachelor of Engineering, Software Engineering - _Aug 2013 - Jul 2017_
 
 ## 🎨Where am I working?
 
-I worked at Amazon (China) at Beijing in 2019 summer, and will be joining Facebook at Menlo Park in 2020 summer.
+#### Facebook @_Menlo Park_
+SWE - _Jul 2020 - _
+
+#### Amazon (China) @_Beijing_
+SDE Intern - _Jun 2019 - Aug 2019_
+
+## 🎯What are my skills?
+Mainly in web development, database and web search engines.
 
 ## 👀Keep in Touch!
 
 My Email Address: me@minchen.wang
+My LinkedIn: https://www.linkedin.com/in/wmc54321/
+我的中文博客: https://blog.minchen.wang/
 
 <!--
 **wmc54321/wmc54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
