@@ -15,13 +15,16 @@ Bachelor of Engineering, Software Engineering - _Aug 2013 - Jul 2017_
 ## 🎨Where am I working?
 
 **Facebook @_Menlo Park_**  
-SWE - _Jul 2020 -_  
+Software Engineer, Ads & Business Products - _Jul 2020 -_  
 
 **Amazon (China) @_Beijing_**  
-SDE Intern - _Jun 2019 - Aug 2019_  
+Software Development Engineer Intern, Amazon Devices SCM - _Jun 2019 - Aug 2019_  
 
 ## 🎯What are my skills?
 Mainly in web development, database and web search engines.
+
+## ❓Why my heatmap shows differently from my repos commits?
+Because some of my repos are private! This is a secret🤫
 
 ## 👀Keep in Touch!
 
