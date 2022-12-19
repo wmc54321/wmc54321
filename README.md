@@ -14,22 +14,20 @@ Bachelor of Engineering, Software Engineering - _Aug 2013 - Jul 2017_
 
 ## 🎨Where am I working?
 
-**Facebook @_Menlo Park_**  
+**Meta, formerly Facebook @_Menlo Park_**  
 Software Engineer, Ads & Business Products - _Jul 2020 -_  
 
 **Amazon (China) @_Beijing_**  
 Software Development Engineer Intern, Amazon Devices SCM - _Jun 2019 - Aug 2019_  
 
 ## 🎯What are my skills?
-Mainly in web development, database and web search engines.
-
-## ❓Why my heatmap shows differently from my repos commits?
-Because some of my repos are private! This is a secret🤫
+I have experience in supporting internal tools, including internal project review management tools and internal infrastructure supporting metrics collection and governance process. I have knowledge mainly in web development, database and web search engines.
 
 ## 👀Keep in Touch!
 
 My Email Address: me@minchen.wang  
 My LinkedIn: https://www.linkedin.com/in/wmc54321/  
+My Personal Page: https://me.minchen.wang/  
 我的中文博客: https://blog.minchen.wang/  
 
 <!--
