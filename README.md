@@ -28,7 +28,10 @@ I have experience in supporting internal tools, including internal project revie
 My Email Address: me@minchen.wang  
 My LinkedIn: https://www.linkedin.com/in/wmc54321/  
 My Personal Page: https://me.minchen.wang/  
+
+<!--
 我的中文博客: https://blog.minchen.wang/  
+-->
 
 <!--
 **wmc54321/wmc54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
