@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-This is Minchen Wang's Github!
+This is Minchen Wang's Github page!
 
 ## 🧶In which university did I study?
 
@@ -15,7 +15,7 @@ Bachelor of Engineering, Software Engineering - _Aug 2013 - Jul 2017_
 ## 🎨Where am I working?
 
 **Meta, formerly Facebook @_Menlo Park_**  
-Software Engineer, Ads & Business Products - _Jul 2020 -_  
+Software Engineer, Monetization (Ads & Business Products) - _Jul 2020 -_  
 
 **Amazon (China) @_Beijing_**  
 Software Development Engineer Intern, Amazon Devices SCM - _Jun 2019 - Aug 2019_  
